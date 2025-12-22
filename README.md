@@ -1,4 +1,4 @@
-# <img src="img/logo.png" width="96" alt="Logo EverPia"> EverPia-Onboarding 
+# <img src="img/logoeverpia.png" width="96" alt="Logo EverPia"> EverPia-Onboarding 
 ## GitHub. Treballant de forma col·laborativa: forks i pull request
 
 Ara que dominem les eines de manera individual (servidors, permisos, etc.), és hora d'aprendre a treballar com ho fem realment a EverPia: com un equip coordinat.
